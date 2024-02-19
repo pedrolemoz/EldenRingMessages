@@ -1,0 +1,10 @@
+name: elden_ring_messages
+description: Elden Ring Messages
+version: 1.0.0
+
+environment:
+  sdk: ^3.2.6
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
